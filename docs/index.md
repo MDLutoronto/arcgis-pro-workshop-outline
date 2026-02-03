@@ -61,7 +61,7 @@ Pre-Workshop Preparation
       * inset map
       * scale bar
       * title
-	  * north arrow
+      * north arrow
       * textual information
 
 ---
